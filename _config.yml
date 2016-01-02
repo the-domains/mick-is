@@ -1,0 +1,28 @@
+name: Mick.is
+favicon: null
+layout_spectrum: 0.2922506364993751
+typography_spectrum: 0.15441262815147638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5000504883937538
+  lightness: 0.37952621979638934
+  saturation: 0.04628349235281348
+  rhythmicContrast: 0.7785705693531781
+purpose: []
